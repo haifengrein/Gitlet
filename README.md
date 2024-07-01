@@ -58,8 +58,6 @@ This diagram showcases the main components of the system:
 
 ## Challenges and Solutions
 
-## Challenges and Solutions
-
 One of the main challenges in this project was implementing the merge functionality. This required careful consideration of various edge cases and potential conflicts. I solved this by:
 
 1. Implementing an algorithm to find the lowest common ancestor (split point) of two branches
