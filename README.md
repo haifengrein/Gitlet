@@ -1,4 +1,4 @@
-# Gitlet: A Version Control System
+# Gitlet:  A Version Control System
 
 ## Project Overview
 
@@ -72,8 +72,3 @@ This experience enhanced my problem-solving skills and ability to handle complex
 ## Reflection
 
 This project significantly improved my understanding of version control systems and reinforced my software engineering skills. It challenged me to think critically about system design, efficiency, and user experience.
-## Conclusion
-
-The Gitlet project demonstrates my ability to design and implement a complex software system from scratch. It showcases my skills in Java programming, data structure design, algorithm implementation, and software architecture. The project's scope, covering core version control functionalities, highlights my capacity to manage and execute large-scale software projects.
-
-I'm excited to discuss this project further and how my skills and experience can contribute to your team's success.
