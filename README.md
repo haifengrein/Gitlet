@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Gitlet is a lightweight version control system that mimics some of the basic features of Git. This project demonstrates my ability to design and implement a complex system from the ground up, showcasing my skills in Java programming, data structures, algorithms, and software design.
+Gitlet is a lightweight version control system that mimics some of the basic features of Git.
 
 ## Key Features
 
